@@ -1,4 +1,6 @@
 # Citibike-Descriptive-Analysis
+This descriptive analysis is the most basic analysis when you want to understand your data first. All the analysis is based on those questions below. (the data we used is Citibike data)
+
 ## Analytics Questions:  
 
 * Compute summary statistics for tripduration
@@ -12,6 +14,6 @@
 * Looking at tripduration in minutes, what can you say about the variance in the data.
   - What does this mean for the pricing strategy?
   - What does this mean for inventory availability?
-* ** A business manager wants to reallocate the $5M marketing budget using a gender segmentation strategy. Specifically, the manager is asking you to create two models:
+* A business manager wants to reallocate the $5M marketing budget using a gender segmentation strategy. Specifically, the manager is asking you to create two models:
   - A model that use % of male vs females in the dataset
   - A model based on average trip duration by gender
