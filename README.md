@@ -25,32 +25,33 @@ As the duration is the measure for the final payment, I focused on the duration 
     - tripduration by gender
 
 ## Business Analysis: 
+**Revenue Estimation**
+Assumption: all users riding bikes from 0 to 45 minutes pay $3 per ride and user exceeding 45 minutes pay an additional $2 per ride.
 
-* What is the total revenue assuming all users riding bikes from 0 to 45 minutes pay $3 per ride and user exceeding 45 minutes pay an additional $2 per ride.
+Based on the assumption, I split the trips into two groups based on the tripduration, and get the estimate revenue around $63000.
 
-Based on the hypothesis, I split the trips into two groups based on the tripduration, and get the estimate revenue around $63000.
-
-* Pricing strategy
+**Pricing strategy**
 
 As we summarized above, the variance of tripduration in minutes is large, which means the time people used citibike are largely varied and spread out from the average duration time, and there exits some extreme value, which means only a minimum people take the citibike for an extremely long time. 
 
-For the pricing itself, as a significant factor that impact the balance between product supply and demand, there are several factors we need to consider when relates the price strategy:
+For the pricing itself, as a significant factor that impact the balance between product supply and demand, there are several factors we need to consider for the price strategy:
 - Fixed and variable costs
 - Competition
 - Company objectives
 - Proposed positioning strategies
 - Target group and willingness to pay
 
-For the company objectives, the citibike program is aimed to encourage more people to use cycling as a new transport to reduce emissions, road wear, collisions, and road and transit congestion. At the same time, considering bicycle is more used for a short trip, so I think there are several points related with pricing strategy,
-- The starting price is more acceptable compared with other public transport.
-Method adopted: as most people used it as a short trip transport, in order to
-encourage more people,
-§ The usage time for the starting price need include the majority trip duration
-§ Adding membership or more discount encourage people take it as a
-mainly transport.
-- Towards some extreme tripduarion, in order to decrease the maintenance fee for
-all the bikes and stations,
-§ Except the starting price, set on
+For the company objectives, the citibike program is aimed to encourage more people to use cycling as a new transport to reduce emissions, road wear, collisions, and transit congestion. At the same time, considering bicycle is more used for a short trip, so several things I am gonna propose related with pricing strategy,
+
+- The starting price should be more acceptable compared with other public transport.
+
+**Method adopted**: as most people used it as a short trip transport, in order to encourage more people,
+    - The usage time for the starting price need include the majority trip duration
+    - Adding membership or more discount encourage people take it as a major transport.
+
+- Towards some extreme tripduarion, in order to decrease the maintenance fee for all the bikes and stations,
+**Method adopted**: Except the starting price, set on one or two levels to control some extremes duration time.
+
 
 
 
