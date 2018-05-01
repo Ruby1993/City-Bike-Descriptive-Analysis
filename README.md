@@ -1,13 +1,25 @@
 # Citibike-Descriptive-Analysis
-This descriptive analysis is the most basic analysis when you want to understand your data first. All the analysis is based on those questions below. (the data we used is Citibike data)
 
-## Analytics Questions:  
+## Overview
+With the avaliable citibike data online, the project explored 20 thousand trip records to estimate total revenue, adjust pricing strategy, as well as designed gender segmentation strategy.
+
+- Assuming all users riding bikes from 0 to 45 minutes pay $3 per ride and user exceeding 45 minutes pay an additional $2 per ride, what is the tootal revenue?
+
+- Based on the tripduration variance, how does it impact the pricing strategy as well as inventory availability?
+
+-  A business manager wants to reallocate the $5M marketing budget using a gender segmentation strategy, what you will propose to? 
+
+
+## Analytics Process 
 
 * Compute summary statistics for tripduration
 * Compute summary statistics for age
 * Compute summary statistics for tripduration in minutes (Need to transform tripduration from seconds to minutes)
 * Compute the correlation between age and tripduration
 * Plot the histograms and box plots for tripduration by gender
+
+
+
 ## Business Questions: 
 
 * What is the total revenue assuming all users riding bikes from 0 to 45 minutes pay $3 per ride and user exceeding 45 minutes pay an additional $2 per ride.
