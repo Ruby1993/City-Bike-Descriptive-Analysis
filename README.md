@@ -50,18 +50,24 @@ For the company objectives, the citibike program is aimed to encourage more peop
     - The usage time for the starting price need include the majority trip duration
     - Adding membership or more discount encourage people take it as a major transport.
 
-- Towards some extreme tripduarion, in order to decrease the maintenance fee for all the bikes and stations,
+- Towards some extreme tripduarion, in order to decrease the maintenance fee for all the bikes and stations.
+
 **Method adopted**: Except the starting price, set on one or two levels to control some extremes duration time.
 
 **Inventory strategy**
 
-For the for inventory availability, as most people use the bike for a short time, the inventory basically could satisfy the public demand. But for some tourist sites, it still depends on the station density and public demand. In addition, in order to make sure
-the availability, the citibike could adopt a method to set certain usage time for unlimited pass or membership, which could encourage riders return the bike to some certain stations in a certain time period.
+For the for inventory availability, as most people use the bike for a short time, the inventory basically could satisfy the public demand. But for some tourist sites, it still depends on the station density and public demand. In addition, in order to make sure the availability, the citibike could adopt a method to set certain usage time for unlimited pass or membership, which could encourage riders return the bike to some certain stations in a certain time period.
 
 **Business Model**
 
 A business manager wants to reallocate the $5M marketing budget using a gender segmentation strategy. Specifically, the manager is asking you to create two models:
-  - A model that use % of male vs females in the dataset
-  - A model based on average trip duration by gender
+
+  - A model that use % of male vs females in the datase
   
+Based on	the percentage of female and male, the budget used on	male is	about $3,827,500, and for female is	about$1,172,500,which means	their target customer is male.
+  
+   - A model based on average trip duration by gender
+   
+Based on the average trip duration by gender, the budget used on male is about $2,281,000 and for female	is	about $2,719,000.
+
   
